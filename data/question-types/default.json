@@ -1,0 +1,69 @@
+{
+    "PARTICIPLE" : {
+        "ACTIVE" : {
+            "PRESENT" : "b",
+            "FUTURE" : "d"
+        },
+        "PASSIVE" : {
+            "PERFECT" : "d",
+            "FUTURE" : "b"
+        }
+    },
+
+    "INFINITIVE" : {
+        "ACTIVE" : {
+            "PRESENT" : "b",
+            "PERFECT" : "c",
+            "FUTURE" : "d"
+        },
+        "PASSIVE" : {
+            "PRESENT" : "b",
+            "PERFECT" : "d"
+        }
+    },
+
+    "INDICATIVE" : {
+        "ACTIVE" : {
+            "PRESENT" : "b",
+            "IMPERFECT" : "b",
+            "FUTURE" : "b",
+            "PERFECT" : "c",
+            "PLUPERFECT" : "c",
+            "FUTURE-PERFECT" : "c"
+        },
+        "PASSIVE" : {
+            "PRESENT" : "b",
+            "IMPERFECT" : "b",
+            "FUTURE" : "b",
+            "PERFECT" : "d",
+            "PLUPERFECT" : "d",
+            "FUTURE-PERFECT" : "d"
+        }
+    },
+
+    "SUBJUNCTIVE" : {
+        "ACTIVE" : {
+            "PRESENT" : "b",
+            "IMPERFECT" : "b",
+            "PERFECT" : "c",
+            "PLUPERFECT" : "c"
+        },
+        "PASSIVE" : {
+            "PRESENT" : "b",
+            "IMPERFECT" : "b",
+            "PERFECT" : "d",
+            "PLUPERFECT" : "d"
+        }
+    },
+
+    "IMPERATIVE" : {
+        "ACTIVE" : {
+            "SINGULAR" : "b",
+            "PLURAL" : "b"
+        },
+        "PASSIVE" : {
+            "SINGULAR" : "b",
+            "PLURAL" : "b"
+        }
+    }
+}
